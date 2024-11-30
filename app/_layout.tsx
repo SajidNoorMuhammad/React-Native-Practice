@@ -35,7 +35,8 @@ export default function RootLayout() {
       <Text style={{
         color: "green",
         fontSize: "30px",
-        fontWeight: "bold"
+        fontWeight: "bold",
+        textDecorationLine: "underline"
       }}>
         Hello React Native First App
       </Text>
